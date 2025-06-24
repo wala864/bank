@@ -8,7 +8,7 @@ public class cat extends animal{
 		// TODO Auto-generated method stub
 		
 	}
-
+//uu
 	@Override
 	public int printvaccount() {
 	System.out.println("hhh");
