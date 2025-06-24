@@ -6,7 +6,7 @@ protected String env;
 public String fullname;
 String type;
 
-
+//comment
 void eat() {
 	System.out.println("animal eat");
 }
