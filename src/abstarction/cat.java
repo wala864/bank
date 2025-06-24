@@ -9,6 +9,8 @@ public class cat extends animal{
 		
 	}
 //uu
+
+	//*******
 	@Override
 	public int printvaccount() {
 	System.out.println("hhh");
